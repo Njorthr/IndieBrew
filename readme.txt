@@ -1,1 +1,1 @@
-i learned how to use flexbox. hamburger menu was a challenge. got better understanding in flexbox and responsive design.
+I created my first web page using HTML and CSS! I used www.codewell.cc challenge (IndieBrew Landing Page) as a template. It was a great learning experience and I got better understanding in flexbox and responsive web design. Creating a hamburger menu only using CSS was a challenge. It took me 5-6 days.
