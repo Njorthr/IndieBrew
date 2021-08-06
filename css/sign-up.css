@@ -9,7 +9,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Georama', sans-serif;
+    font-family: 'DM Sans', sans-serif;
     background-image: linear-gradient(to bottom right, var(--light-blue), var(--blue), var(--light-blue));
     background-size: cover;
     background-repeat: no-repeat;
