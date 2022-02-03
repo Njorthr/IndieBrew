@@ -1,1 +1,7 @@
-I created my first web page using HTML and CSS! I used www.codewell.cc challenge (IndieBrew Landing Page) as a template. It was a great learning experience and I got better understanding in flexbox and responsive web design. Creating a hamburger menu only using CSS was a challenge. It took me 5-6 days.
+# IndieBrew
+This was my first ever web page.  
+Indiebrew is a https://www.codewell.cc challenge
+Built with HTML/CSS only 
+<hr>
+
+
