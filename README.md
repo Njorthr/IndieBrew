@@ -1,7 +1,7 @@
 # IndieBrew
 This was my first ever web page.  
 Indiebrew is a https://www.codewell.cc challenge  
-Built with HTML/CSS only 
+Built with HTML/CSS only  
 Live Link: https://njorthr.github.io/IndieBrew/
 <hr>
 
